@@ -1,7 +1,7 @@
 variable "flask_app_image" {
     description = "Docker image for Flask app"
     type        = string
-    default     = "mapoboydean/flask-app:5"
+    default     = "mapoboydean/flask-app:6"
 }
 
 variable "replicas" {
