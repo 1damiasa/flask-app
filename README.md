@@ -619,7 +619,7 @@ variable "replicas" {
 
 ### Conclusion
 
-You’ve now fully automated the process of deploying your Flask app to Kubernetes using **Terraform**! 🎉
+You’ve now fully automated the process of deploying your Flask app to Kubernetes using **Terraform**! 
 
 This includes:
 - Building and pushing the Docker image using GitHub Actions.
